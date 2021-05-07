@@ -1,3 +1,4 @@
+```
 -- Table - person
 -- Instructions
 -- Create a table called person that records a person's id, name, age, height ( in cm ), city, favorite_color.
@@ -174,3 +175,4 @@ where billing_state in ('CA', 'TX', 'AZ');
 select avg(total) from invoice;
 -- Get the total sum of the orders.
 select sum(total) from invoice;
+```
